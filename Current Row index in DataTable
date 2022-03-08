@@ -1,0 +1,2 @@
+We can get this in for each datatable
+DTsample.Rows.IndexOf(row)
