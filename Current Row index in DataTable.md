@@ -1,4 +1,4 @@
 ## We can get this in for each datatable
---linq
+```linq
 DTsample.Rows.IndexOf(row)
---
+```
